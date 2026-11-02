@@ -1,4 +1,4 @@
-id = "world-map"
+id = "world_map"
 name = "World Map"
 version = "0.1.0"
 api = "0.1"
